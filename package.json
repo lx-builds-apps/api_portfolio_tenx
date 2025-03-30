@@ -10,11 +10,20 @@
   "author": "Alex (lx-builds-apps)",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^2.2.0",
     "express": "^5.0.1"
   },
   "devDependencies": {
     "@types/express": "^5.0.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.2"
-  }
+  },
+  "keywords": [
+    "typescript",
+    "esnext",
+    "nodejs",
+    "expressjs",
+    "bodyparser",
+    "postman"
+  ]
 }
